@@ -16,5 +16,3 @@ function removeFromPlaylist(thePlaylist, artistName) {
 }
 
 removeFromPlaylist(playlist, "artist2");
-
-
